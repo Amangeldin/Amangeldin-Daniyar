@@ -1,0 +1,18 @@
+Enter the number of process: 
+4
+Enter the burst time for p1
+2
+Enter the burst time for p2
+4
+Enter the burst time for p3
+6
+Enter the burst time for p4
+8
+Enter the quantum number: 
+1
+Process			waiting time
+p1			3
+p2			8
+p3			11
+p4			12
+Average waiting time is: 8.5
