@@ -1,0 +1,2 @@
+# Amangeldin-Daniyar
+Уй жумысы
